@@ -226,6 +226,15 @@ A CLI-based AI coding agent for local dev, scripts/CI, and automation.
 
 ---
 
+## [`synaps`](https://github.com/HaseebKhalid1507/SynapsCLI)
+
+Lightning fast terminal native agent harness with tools, extensions and subagents. Dispatch
+named agents, steer them mid-flight, and watch them work in a live panel.
+
+![synaps demo](https://github.com/HaseebKhalid1507/SynapsCLI/blob/main/assets/demo.gif?raw=true)
+
+---
+
 ## [`taskwarrior-tui`](https://github.com/kdheepak/taskwarrior-tui)
 
 A terminal user interface for taskwarrior
